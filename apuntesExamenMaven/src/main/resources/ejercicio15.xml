@@ -1,0 +1,27 @@
+<familia>
+  <miembro name="a">
+    <primerapellido>a</primerapellido>
+    <segundoapellido>a</segundoapellido>
+    <nacimiento>2000-05-19 22:00:00.0 UTC</nacimiento>
+  </miembro>
+  <miembro name="b">
+    <primerapellido>b</primerapellido>
+    <segundoapellido>b</segundoapellido>
+    <nacimiento>2000-03-19 23:00:00.0 UTC</nacimiento>
+  </miembro>
+  <miembro name="Margarita">
+    <primerapellido>Alcantara</primerapellido>
+    <segundoapellido>Alejo</segundoapellido>
+    <nacimiento>2000-05-05 23:00:00.0 UTC</nacimiento>
+  </miembro>
+  <miembro name="Margarita">
+    <primerapellido>Alcantara</primerapellido>
+    <segundoapellido>Alejo</segundoapellido>
+    <nacimiento>2000-05-05 23:00:00.0 UTC</nacimiento>
+  </miembro>
+  <miembro name="Carlos">
+    <primerapellido>Ruiz</primerapellido>
+    <segundoapellido>Sanz</segundoapellido>
+    <nacimiento>1998-12-12 23:00:00.0 UTC</nacimiento>
+  </miembro>
+</familia>

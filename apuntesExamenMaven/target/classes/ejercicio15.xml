@@ -1,0 +1,12 @@
+<familia>
+  <miembro name="a">
+    <primerapellido>a</primerapellido>
+    <segundoapellido>a</segundoapellido>
+    <nacimiento>2000-05-19 22:00:00.0 UTC</nacimiento>
+  </miembro>
+  <miembro name="b">
+    <primerapellido>b</primerapellido>
+    <segundoapellido>b</segundoapellido>
+    <nacimiento>2000-03-19 23:00:00.0 UTC</nacimiento>
+  </miembro>
+</familia>
